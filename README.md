@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elohim2598, a Front-End Developer. Passion driven to learn.
 - 👀 I’m interested in Web Development.
-- 📫 How to reach me: +591 63932280 (WhatsApp)
+- 📫 How to reach me: +59163932280 (WhatsApp)
                         elohim2598@gmail.com (email)
                        
 <!---

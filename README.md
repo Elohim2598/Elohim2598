@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-I am a Frontend React Developer with a strong passion for creating visually appealing, intuitive and responsive web applications. With a focus on best practices, I am constantly striving to improve my skills and stay up-to-date with the latest technologies. I am excited to continue learning and growing as a developer, and look forward to working on new and challenging projects.
+I am a Front End React Developer with a strong passion for creating visually appealing, intuitive and responsive web applications. With a focus on best practices, I am constantly striving to improve my skills and stay up-to-date with the latest technologies. I am excited to continue learning and growing as a developer, and look forward to working on new and challenging projects.
 
 ## Contact
 
